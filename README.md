@@ -1,3 +1,4 @@
 Praktikum
 Statistika
 dan
+Probabilitas
