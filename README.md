@@ -1,2 +1,3 @@
 Praktikum
 Statistika
+dan
