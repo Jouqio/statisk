@@ -1,0 +1,4 @@
+Praktikum
+Statistika
+dan
+Probabilitas

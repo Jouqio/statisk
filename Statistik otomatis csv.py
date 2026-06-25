@@ -294,6 +294,15 @@ def main():
     # Grafik
     buat_grafik(data, args.mu0, args.sigma, args.alpha, args.output)
 
-
 if __name__ == "__main__":
+    # Jalankan langsung tanpa argumen command line
+    import sys
+    sys.argv = [
+        'statistik_otomatis_csv.py',
+        'data_nilai.csv',
+        '--mu0', '75',
+        '--sigma', '40',
+        '--alpha', '0.05',
+        '--output', '.'
+    ]
     main()
