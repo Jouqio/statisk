@@ -13,7 +13,8 @@ Format CSV:
   75
   ...
 """
-
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 import csv
 import sys
 import math
