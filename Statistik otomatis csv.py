@@ -90,7 +90,7 @@ def uji_t(data, mu_0, alpha=0.05):
 
 
 # ============================================================
-# FUNGSI VISUALISASI
+# Fungsi Visualisasi
 # ============================================================
 
 def buat_grafik(data, mu_0, sigma, alpha, output_dir):
