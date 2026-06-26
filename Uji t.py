@@ -84,7 +84,7 @@ if keputusan == "TOLAK H₀":
 print("=" * 60)
 
 # ============================================================
-# VISUALISASI
+# Visualisasi
 # ============================================================
 fig, ax = plt.subplots(figsize=(12, 6))
 fig.suptitle("Bagian C – Uji T Dua Sisi\nEvaluasi Metode Pembelajaran Baru (μ₀ = 75)",
