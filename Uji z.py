@@ -67,7 +67,7 @@ if keputusan == "TOLAK H₀":
 print("=" * 60)
 
 # ============================================================
-# VISUALISASI
+# Visualisasi
 # ============================================================
 fig, ax = plt.subplots(figsize=(12, 6))
 fig.suptitle("Bagian B – Uji Z Dua Sisi\nWaktu Respons Server Perusahaan Hosting",
