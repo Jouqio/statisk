@@ -66,7 +66,7 @@ print(f"  Batas Atas  (Upper)     : {ci_upper:.4f}")
 print("=" * 60)
 
 # ============================================================
-# VISUALISASI
+# Visualisasi
 # ============================================================
 fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 fig.suptitle("Bagian A – Confidence Interval 95%\nNilai Kuis Mahasiswa Statistika dan Probabilitas",
